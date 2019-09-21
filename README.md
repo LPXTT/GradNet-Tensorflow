@@ -1,4 +1,4 @@
-# GradNet-Pytorch
+# GradNet-Tensorflow
 This is the official implementation with training code for 'GradNet: Gradient-Guided Network for Visual Object Tracking' (ICCV2019 Oral). For more details, please refer to:
 
 Introduction
