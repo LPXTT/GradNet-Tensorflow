@@ -10,7 +10,7 @@ We propose a GradNet to update the template in single object tracking based on t
 
 Requirements
 --------------------------
-1. Tensorflow > 0.4.0
+1. Tensorflow
 2. CUDA 8.0 and cuDNN 6.0
 3. Python 2.7 / Python 3.6
 
