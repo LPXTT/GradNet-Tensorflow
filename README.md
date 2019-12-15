@@ -17,7 +17,8 @@ Requirements
 Usage
 --------------------------
 ### Train
-   The training code is coming soon~
+1. Data preparation: Please refer to https://github.com/bertinetto/siamese-fc for details and change the data paths in parameters.py. 
+2. Please run `$(ROOT_PATH)/train.py` to get your own model.
    
 ### Test
   Please run `$(ROOT_PATH)/track.py` for demo.
@@ -28,7 +29,7 @@ Licensed under an MIT license.
 
 Citation
 --------------------
-If you find ACT useful in your research, please kindly cite our paper:</br>
+If you find GradNet useful in your research, please kindly cite our paper:</br>
 
     @InProceedings{GradNet_ICCV2019,
     author = {Peixia Li, Boyu Chen, Wanli Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu},
