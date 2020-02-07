@@ -13,7 +13,7 @@ import scipy.io as sio
 import os
 os.environ['CUDA_VISIBLE_DEVICES']='0'
 
-from siamese_net_l5 import *
+from siamese import *
 from parameters import configParams
 import utils
 
